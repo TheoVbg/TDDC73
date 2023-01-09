@@ -1,0 +1,5 @@
+Terminal 1:
+	npx react-native start
+
+Terminal 2: 
+	npx react-native run-android
